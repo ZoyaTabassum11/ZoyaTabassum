@@ -14,7 +14,6 @@
 - 📬 **How to reach me:** zoya.tabassum1611@gmail.com
 - 🌸 **Pronouns:** She/her
 - 🌟 **Fun fact:** “It’s working on my machine” is both a flex and a curse 😤💻
-- 
 ---
 
 > “Building one project at a time, learning one bug at a time!” 💻✨
