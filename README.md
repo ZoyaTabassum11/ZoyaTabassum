@@ -1,3 +1,23 @@
+# 👋 Hi there, I'm Zoya Tabassum!
+
+🚀 A passionate **🎓 AI/ML undergrad** || **💻 Building scalable full stack projects** || **🤖 Turning real-world problems into smart automation** from India 🇮🇳  
+
+📩 **Email me at:** zoya.tabassum1611@gmail.com for **Collaboration**, **Projects**, or just to say Hi! 😊
+
+---
+
+- 🔧 **I'm currently working on:** "NammaCityFix- From Complaint to Completion"
+- 📚 **I'm currently learning:** Advanced Machine Learning, Full-Stack Web Development, and Problem-Solving with Data Structures & Algorithms 🚀
+- 🤝 **I'm looking to collaborate on:** NammaCityFix- From Complaint to Completion
+- ❓ **I'm looking for help with:** Real-world project collaboration, especially in AI, Web Dev, or Robotics 🤖✨
+- 💬 **Ask me about:** AI/ML,Web development using HTML, CSS, JS, and modern frameworks 🌐
+- 📬 **How to reach me:** zoya.tabassum1611@gmail.com
+- 🌸 **Pronouns:** She/her
+- 🌟 **Fun fact:** “It’s working on my machine” is both a flex and a curse 😤💻
+- 
+---
+
+> “Building one project at a time, learning one bug at a time!” 💻✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zoya-tabassum-73a1a0316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zoya.tabassum1611@gmail.com) 
