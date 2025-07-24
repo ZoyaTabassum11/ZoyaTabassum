@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Zoya Tabassum!
 
-🚀 A passionate **🎓 AI/ML undergrad** || **💻 Building scalable full stack projects** || **🤖 Turning real-world problems into smart automation** from India 🇮🇳  
+🚀 A passionate **🎓 AI/ML undergrad** || **💻 Building scalable full stack projects** || **🤖 Turning real-world problems into smart automation** from India  
 
 📩 **Email me at:** zoya.tabassum1611@gmail.com for **Collaboration**, **Projects**, or just to say Hi! 😊
 
